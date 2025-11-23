@@ -3,7 +3,7 @@
 % Compares effective mechanical power values between survivors 
 % and non-survivors using boxplots and data validation.
 %
-% Author: Patri
+% Author: Patricia Rodrigo 
 % Repository: MechanicalPower-Analysis-PANDORA
 % --------------------------------------------------------------
 
