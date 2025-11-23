@@ -3,7 +3,7 @@
 % Plots individual mechanical power (MP) time curves for each patient,
 % using logarithmic scale on the X-axis (time in hours).
 %
-% Author: Patricia
+% Author: Patricia Rodrigo 
 % Repository: MechanicalPower-Analysis-PANDORA
 % --------------------------------------------------------------
 
