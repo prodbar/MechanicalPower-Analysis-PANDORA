@@ -3,7 +3,7 @@
 % Computes descriptive statistics for all effective mechanical 
 % power variables (mean, SD, median, min, max, abnormal values).
 %
-% Author: Patri
+% Author: Patricia Rodrigo 
 % Repository: MechanicalPower-Analysis-PANDORA
 % --------------------------------------------------------------
 
