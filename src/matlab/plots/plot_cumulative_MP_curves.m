@@ -4,7 +4,7 @@
 % Mechanical power is integrated using trapezoidal approximation 
 % (cumtrapz) to obtain cumulative area curves.
 %
-% Author: Patricia
+% Author: Patricia Rodrigo
 % Repository: MechanicalPower-Analysis-PANDORA
 % --------------------------------------------------------------
 
