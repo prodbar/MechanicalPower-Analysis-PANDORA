@@ -109,3 +109,14 @@ src/matlab/
 - plot_cumulative_MP_curves
 - plot_cumulativeMP_vs_VFD
 - plot_cumulativeMP_vs_mortality
+
+---
+
+## Contact
+
+For any questions, feedback, or collaboration requests regarding this repository or the associated research work, please contact:
+
+**Patricia Rodrigo Barrio**  
+Email: **patriciarodrigobarrio@gmail.com**  
+
+---
