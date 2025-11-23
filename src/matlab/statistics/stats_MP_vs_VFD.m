@@ -3,7 +3,7 @@
 % Analyzes the relationship between effective mechanical power 
 % and ventilator-free days (VFD) using linear and log models.
 %
-% Author: Patri
+% Author: Patricia Rodrigo
 % Repository: MechanicalPower-Analysis-PANDORA
 % --------------------------------------------------------------
 
