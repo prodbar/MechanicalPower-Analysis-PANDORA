@@ -3,7 +3,7 @@
 % Detects abnormal ventilatory values for each variable based on 
 % predefined physiological ranges.
 %
-% Author: Patri
+% Author: Patricia Rodrigo
 % Repository: MechanicalPower-Analysis-PANDORA
 % --------------------------------------------------------------
 
